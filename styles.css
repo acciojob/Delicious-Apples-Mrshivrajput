@@ -1,4 +1,3 @@
-/* your code here */
 *{
     padding: 0px;
     margin: 0px;
@@ -23,11 +22,11 @@
 
 }
 
-#main_apple{
+/* #main_apple{
     position: relative;
     left: -80px;
 
-}
+} */
 
 .photo-main{
     background-color: greenyellow;
